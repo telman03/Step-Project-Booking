@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Step-Project" />
+        <module name="Step-Project777" />
+        <module name="Step-Project12" />
+        <module name="Step-Project-Booking" />
+        <module name="Step-ProjectZeyNaz" />
+        <module name="StepProjectBoooking" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
