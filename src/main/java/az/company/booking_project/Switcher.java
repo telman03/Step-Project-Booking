@@ -19,7 +19,7 @@ public class Switcher {
     private UserController userController   =  new UserController();
     private UserService userService= new UserService();
     UserDao userDao= new UserDao();
-    private DisplayMenu displayMenu  = new DisplayMenu();
+    private Menu displayMenu  = new Menu();
 
 
 

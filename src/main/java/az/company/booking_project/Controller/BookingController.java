@@ -1,7 +1,7 @@
 package az.company.booking_project.Controller;
 
 import az.company.booking_project.Exceptions.BookingException;
-import az.company.booking_project.DisplayMenu;
+import az.company.booking_project.Menu;
 import az.company.booking_project.entities.ArrivalCity;
 import az.company.booking_project.entities.Flight;
 import az.company.booking_project.Services.BookingService;
@@ -16,7 +16,7 @@ import java.util.Scanner;
 public class BookingController {
     private BookingService bookingService=new BookingService();
     private FlightService flightService= new FlightService();
-    private DisplayMenu displayMenu =new DisplayMenu();
+    private Menu displayMenu =new Menu();
     Scanner scanner = new Scanner(System.in);
 
     public void makeBooking(int tickets){

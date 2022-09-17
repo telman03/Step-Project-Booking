@@ -1,7 +1,7 @@
 package az.company.booking_project;
 
 
-public class DisplayMenu {
+public class Menu {
 
     void user() {
         StringBuilder sb = new StringBuilder();
